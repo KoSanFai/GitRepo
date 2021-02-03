@@ -6,3 +6,9 @@
 - asfasdf
 
 - cbasaf
+- vue3.0
+
+- react
+- react
+- redux
+- react-router
